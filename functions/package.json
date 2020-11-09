@@ -1,0 +1,55 @@
+{
+  "_from": "functions",
+  "_id": "functions@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha1-jFUzC61giAxjxOIQdK3VgNrJ/+g=",
+  "_location": "/functions",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "functions",
+    "name": "functions",
+    "escapedName": "functions",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/functions/-/functions-1.0.9.tgz",
+  "_shasum": "8c55330bad60880c63c4e21074add580dac9ffe8",
+  "_spec": "functions",
+  "_where": "/Users/heesunhong/Projects/FetchMate/fetchmate-chat-app",
+  "author": {
+    "name": "computes.io"
+  },
+  "bugs": {
+    "url": "https://github.com/computes/functions/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "functions for computes.io",
+  "homepage": "https://github.com/computes/functions#readme",
+  "keywords": [
+    "computes",
+    "functions",
+    "supercomputer"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "functions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computes/functions.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9",
+  "dependencies": {
+    "bad-words": "^3.0.3"
+  }
+}
